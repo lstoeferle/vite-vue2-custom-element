@@ -7,6 +7,15 @@
     <a href="https://github.com/vitejs/vite" target="_blank">Vite</a>
 </p>
 
+
+> WARNING 🚨  
+> This project is still in development and it's not recommended to use it in production.
+
+## Issues
+- [x] Wrap Vue component as a custom element
+- [x] Images loading
+- [] CSS loading
+
 ## Features
 
 * ⚡️ [Vite](https://github.com/vitejs/vite), [Vue 2](https://github.com/vuejs/vue) - lightning fast
