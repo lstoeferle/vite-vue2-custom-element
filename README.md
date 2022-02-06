@@ -14,7 +14,7 @@
 ## Issues
 - [x] Wrap Vue component as a custom element
 - [x] Images loading
-- [] CSS loading
+- [ ] CSS loading
 
 ## Features
 
